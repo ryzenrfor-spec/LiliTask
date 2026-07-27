@@ -1,7 +1,7 @@
 {
-  "name": "JadwalKu X.4 SMAN 1 Kramat",
-  "short_name": "JadwalKu",
-  "description": "Aplikasi pengingat jadwal dan tugas kelas X.4 SMAN 1 Kramat",
+  "name": "Lilith Tasking",
+  "short_name": "LiliTask",
+  "description": "Aplikasi pengingat jadwal dan tugas custom sesuai kebutuhan",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#0e1116",
