@@ -28,7 +28,7 @@
       { jamKe: 8, mulai: "13:00", selesai: "13:45", mapel: "Ekonomi", tipe: "pelajaran" },
       { jamKe: 9, mulai: "13:45", selesai: "14:30", mapel: "KKA", tipe: "pelajaran" },
       { jamKe: 10, mulai: "14:30", selesai: "15:15", mapel: "KKA", tipe: "pelajaran" },
-    ],
+   ],
     2: [
       // SELASA
       { jamKe: 1, mulai: "07:00", selesai: "07:45", mapel: "Fisika", tipe: "pelajaran" },
